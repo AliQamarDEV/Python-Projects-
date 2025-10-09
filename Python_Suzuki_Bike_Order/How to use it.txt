@@ -1,0 +1,35 @@
+# Suzuki Bike Booking Program in Python
+
+This Python program **books a Suzuki bike** if all conditions are met. If any condition fails, it will print the reason why the bike cannot be booked.  
+
+---
+
+## **Features**
+- Takes input from the user for:
+  - Company
+  - Engine Capacity
+  - Year
+  - Color
+- Checks multiple conditions step by step:
+  1. Company must be **Suzuki**
+  2. Engine capacity must be **150**
+  3. Year must be **2023, 2024, or 2025**
+  4. Color must be **Black**
+- Prints clear messages if any condition is not met  
+- Fully commented code for readability and understanding  
+
+---
+
+## **How to Use**
+1. Run the program in Python (IDLE, VS Code, or terminal)  
+2. Input the **desired company**  
+3. Input **engine capacity**  
+4. Input **year of the bike**  
+5. Input **desired color**  
+6. The program will either:
+   - Confirm the bike can be booked, or  
+   - Print the reason it cannot be booked  
+
+---
+
+## **Example Output**
