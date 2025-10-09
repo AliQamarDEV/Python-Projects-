@@ -1,0 +1,29 @@
+# Python Grading System
+
+A simple Python program that takes a student's marks as input and outputs the grade automatically. It also handles invalid marks.
+
+---
+
+## Features
+
+- Takes input from the user (marks) and converts it into a float.
+- Checks if the marks are valid (0–100).
+- Assigns grades based on the marks:
+  - **A1:** 80–100
+  - **A:** 70–79
+  - **B:** 60–69
+  - **C:** 50–59
+  - **D:** 40–49
+  - **Better Luck Next Time:** below 40
+- Prints the result clearly.
+
+---
+
+## How to Use
+
+1. Open the Python file `grading_system.py`.
+2. Run the file in any Python environment (Jupyter, VS Code, or terminal).
+3. Enter your marks when prompted.
+4. The program will print your grade or an invalid marks message.
+
+---
